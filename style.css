@@ -45,7 +45,7 @@ color: white;}
      width: 26%;
     height: 60%;
     float: right;
-    border-radius: 15%;
+    border-radius: 30%;
 }
 
 nav { background-color: rgb(77, 77, 172);}
@@ -54,4 +54,5 @@ nav { background-color: rgb(77, 77, 172);}
 .table {border: 10%;}
 
 .td1 {font-size: 550%;
+
 }
